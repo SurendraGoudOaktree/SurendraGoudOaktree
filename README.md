@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendragoudoaktree&label=Profile%20views&color=0e75b6&style=flat" alt="surendragoudoaktree" /> </p>
 
-- 💬 Ask me about **Ruby on Rails, Angular, Deployments script.**
+- 💬 Ask me about **Ruby on Rails, Angular, DevOops.**
 
 - 📫 How to reach me **surendra.goud@oaktreecloud.com**
 
