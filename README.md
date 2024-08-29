@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm @SurendraGoudOaktree</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">I'm a Developer with a passion for bringing ideas to life. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop applications and websites that are fast, responsive, and accessible to everyone.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendragoudoaktree&label=Profile%20views&color=0e75b6&style=flat" alt="surendragoudoaktree" /> </p>
 
